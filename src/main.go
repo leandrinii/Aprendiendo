@@ -32,7 +32,7 @@ func areaCirc(p, r float64) float64 {
 
 func main() {
 	//actividad con funciones
-	arearectangulo := areaRec(10, 20)
+	arearectangulo := areaRec(15, 20)
 	fmt.Println("el area del rectangulo en función es: ", arearectangulo)
 
 	areatrap := areaTrap(20, 10, 10)
