@@ -11,7 +11,7 @@ func tripleArgunment(a int, b int, c string) {
 }
 
 func returnValue(a int) int {
-	return a * 2
+	return a * 3
 }
 
 func doubleReturn(a int) (c, d int) {
